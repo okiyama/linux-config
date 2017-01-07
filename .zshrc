@@ -79,6 +79,7 @@ export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/g
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias apti="sudo apt-get install"
+alias aptu="sudo apt-get update; sudo apt-get upgrade"
 alias apts="apt-cache search"
 alias petite="petite ~/chez-init.scm"
 
